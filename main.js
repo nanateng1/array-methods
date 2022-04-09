@@ -54,5 +54,9 @@ alert(nums.slice(4))
 alert(nums.slice(-4))
 //alerts: 9, 23, 17, 32 (copies last 4 elements)
 
+
+//*****************************/
+let score = [23, 34, 54, 12, 65, 24, 50]
+
 console.log(nums.splice(2, 3))
 console.log(nums)
