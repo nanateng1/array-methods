@@ -56,7 +56,3 @@ alert(nums.slice(-4))
 
 
 //*****************************/
-let score = [23, 34, 54, 12, 65, 24, 50]
-
-console.log(nums.splice(2, 3))
-console.log(nums)
