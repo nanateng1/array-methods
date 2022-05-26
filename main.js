@@ -56,3 +56,5 @@ alert(nums.slice(-4))
 
 
 //*****************************/
+//? arr.splice(start[, deleteCount, elem1, ..., elemN])
+
