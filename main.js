@@ -67,7 +67,7 @@ alert(toDo); // alerts ['clean house', 'go to barber shop']
 
 let cusines = ['mac and cheese', 'plantian and beans', 'empanadas', 'banku and tilapia', 'sweet potato pie', 'tortilla and salsa']
 
-cusines.splice(3, 2)// starting at index 3 it removes 2 elements
+cusines.splice(3, 2)//['banku and tilapia','sweet potato pie'] starting at index 3 it removes 2 elements
 
 alert(cusines); //alerts ['mac and cheese', 'plantian and beans', 'empanadas', 'tortilla and salsa']
 
