@@ -57,8 +57,11 @@ alert(nums.slice(-4))
 
 //*****************************/
 //? arr.splice(start[, deleteCount, elem1, ..., elemN])
+
+//DELETE ELEMENT examples
 let toDo = ['clean house', 'print shirts', 'go to the barber shop',]
 
 toDo.splice(1, 1) // it removes 1 element at index 1
 
 alert(toDo); // alerts ['clean house', 'go to barber shop',]
+
